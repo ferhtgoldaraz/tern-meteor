@@ -11,8 +11,8 @@
     "url": "git+https://github.com/ferhtgoldaraz/tern-meteor.git"
   },
   "dependencies": {
-    "tern": "^0.7.0",
-    "acorn": "~0.5.0"
+    "tern": "~0.16.1",
+    "acorn": "~2.5.2"
   },
   "keywords": [
     "tern",
