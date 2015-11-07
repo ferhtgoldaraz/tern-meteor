@@ -1,0 +1,27 @@
+{
+    "name": "tern-meteor",
+    "version": "1.0.0",
+    "description": "Tern plugin for meteor js framework",
+    "main": "meteor.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ferhtgoldaraz/tern-meteor.git"
+    },
+    "dependencies": {
+        "tern": "^0.7.0",
+        "acorn": "~0.5.0"
+    },
+    "keywords": [
+        "tern",
+        "meteor"
+    ],
+    "author": "Slava Kim <slava@meteor.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ferhtgoldaraz/tern-meteor/issues"
+    },
+    "homepage": "https://github.com/ferhtgoldaraz/tern-meteor#readme"
+}
