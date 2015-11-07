@@ -1,3 +1,8 @@
+*NOTE*: this is a fork from [Slava's](https://github.com/Slava/tern-meteor) work.
+I simply wanted to be able to `npm install -g` it, since that lets `tern` use this
+to resolve the plugin in `.tern-project` without futher configuration.
+See below for an example.
+
 TernJS plugin: Meteor
 ===
 
