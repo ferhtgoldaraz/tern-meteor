@@ -1,6 +1,6 @@
 {
   "name": "tern-meteor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tern plugin for meteor js framework",
   "main": "meteor.js",
   "scripts": {
